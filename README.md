@@ -1,2 +1,6 @@
-# Comparative-Analysis-of-ML-Models-for-Stroke-Risk-Prediction
-• Built stroke prediction models using R (tidymodels) on 5K+ patient records • Cleaned data, handled missing BMI values, and encoded categorical features • Addressed class imbalance using SMOTE • Trained and evaluated 6 ML models (LR, kNN, RF, NB, DT, C5.0) • Achieved 92% accuracy and 96% F1-score with Boosted C5.0 • Compared models using ROC curve
+• Built stroke prediction models using R (tidymodels) on 5K+ patient records 
+• Cleaned data, handled missing BMI values, and encoded categorical features 
+• Addressed class imbalance using SMOTE 
+• Trained and evaluated 6 ML models (LR, kNN, RF, NB, DT, C5.0) 
+• Achieved 92% accuracy and 96% F1-score with Boosted C5.0 
+• Compared models using ROC curve
